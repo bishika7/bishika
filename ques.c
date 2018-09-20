@@ -19,3 +19,11 @@
 19)what are codes?
 20)what happens after we learn each language/
 21)what can we do after learning each of it?
+22)what is argument in coding?
+  answers:
+1)compiling is a process where the input entered in the computer program (compiler) converts into a machine language code that gives an output
+2)int main is the part of the program where execution starts.
+  void main=?
+  
+3)  coding?
+4)
