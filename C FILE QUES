@@ -1,0 +1,6 @@
+WHAT IS COMPILING?
+A compiler is a special program that processes statements written in a particular programming language and turns them into machine language or "code" that a computer's processor uses.
+WHAT IS DEBUGGING?
+Debugging is the routine process of locating and removing computer program bugs, errors or abnormalities, which is methodically handled by software programmers via debugging tools.
+WHAT IS AN ERROR?
+error is a bug in a program that causes it to operate incorrectly, but not to terminate abnormally (or crash).
