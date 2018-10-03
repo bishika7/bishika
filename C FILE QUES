@@ -16,4 +16,6 @@ WHAT IS RETURN O?
    When the return statement is used at the end of main as shown
    here, the value 0 indicates that the program has terminated successfully.
 WHAT IS #INCLUDE STDIO.H?
-What actually happen is the preprocessor reads #include and it understands that there is something which has to be included ( copied and use the information from there) and then it reads (<) and it understand that the file which has to be included is in a special place defined by the operating system where header files for the C library are held. And then it will search the file named stdio.h and then it will copy the contents. Generally preprocessor includes headers that come with the compiler.
+   What actually happen is the preprocessor reads #include and it understands that there is something which has to be included ( copied and use the information from there) and then it reads (<) and it understand that the file which has to be included is in a special place defined by the operating system where header files for the C library are held. And then it will search the file named stdio.h and then it will copy the contents. Generally preprocessor includes headers that come with the compiler.
+WHAT IS MACHINE CODE?
+   a computer programming language consisting of binary or hexadecimal instructions which a computer can respond to directly.
