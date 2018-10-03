@@ -1,0 +1,8 @@
+Fig 1.1 summary:
+
+When the programmer enters a program in the editor, it stores the file in the disk. 
+The code is then processed by the preprocessor and transferred to the compiler. 
+The compiler compiles the code and it enters the assembler which assembles the code and stores it on the disk.
+Linkers take the object code from the assembler and links to the libraries and executes and stores it on the disk.
+The loader then takes the code, puts in memory and prepares for execution.
+The CPU takes the code and executes it, thus giving an output. The code gets stored in the disk.
